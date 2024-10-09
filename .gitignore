@@ -75,3 +75,5 @@ app/.next/
 app/bin/
 
 *.lock
+app/package-lock.json
+app/yarn.lock
