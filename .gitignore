@@ -73,3 +73,5 @@ typings/
 
 app/.next/
 app/bin/
+
+*.lock
